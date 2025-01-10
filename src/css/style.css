@@ -4,9 +4,20 @@ body{
     background-color: black;
     background-image: url(../../public/img/bg-image-we4.jpg);
     background-repeat: no-repeat;
-    background-position:-480px;
+    background-position:-490px;
     background-size:170%;
   }
+  @media screen and (min-device-width:600px) {
+    body{
+      writing-mode: vertical-rl;
+      font-family: "馬酔木明朝";
+      background-color: black;
+      background-image: url(../../public/img/bg-image-we4.jpg);
+      background-repeat: no-repeat;
+      background-position:-300px;
+      background-size:170%;
+  }
+}
 
 .title{
     font-size:5em;

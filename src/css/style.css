@@ -4,8 +4,8 @@ body{
     background-color: black;
     background-image: url(../../public/img/bg-image-we4.jpg);
     background-repeat: no-repeat;
-    background-position:right bottom;
-    background-size:500px;
+    background-position:-480px;
+    background-size:170%;
   }
 
 .title{

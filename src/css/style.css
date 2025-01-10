@@ -4,7 +4,7 @@ body{
     background-color: black;
     background-image: url(../../public/img/bg-image-we4.jpg);
     background-repeat: no-repeat;
-    background-position:-490px;
+    background-position:-520px;
     background-size:170%;
   }
   @media screen and (min-device-width:600px) {
@@ -14,7 +14,7 @@ body{
       background-color: black;
       background-image: url(../../public/img/bg-image-we4.jpg);
       background-repeat: no-repeat;
-      background-position:-300px;
+      background-position:-600px;
       background-size:170%;
   }
 }

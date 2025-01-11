@@ -21,6 +21,10 @@ p{
   font-weight: bold;
 }
 
+.layout-vartical{
+  display:flex;
+}
+
   @font-face {
     font-family: "馬酔木明朝";
     src:url(../../public/fonts/AsebiMin-Light.otf)

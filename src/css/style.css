@@ -13,6 +13,8 @@ body{
 
 .write-vartical{
   writing-mode: vertical-rl;
+  right: 0px;
+  position: fixed;
 }
 
 p{
@@ -22,7 +24,6 @@ p{
 
 .layout-vartical{
   display:flex;
-  position: right;
 }
 
   @font-face {

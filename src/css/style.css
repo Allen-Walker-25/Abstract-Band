@@ -24,9 +24,6 @@ p{
   display:flex;
 }
 
-.main-image{
-  width: 50%;
-}
   @font-face {
     font-family: "馬酔木明朝";
     src:url(../../public/fonts/AsebiMin-Light.otf)
